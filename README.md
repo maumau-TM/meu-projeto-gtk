@@ -20,6 +20,3 @@ Permite agendar, registrar e acompanhar os banhos realizados, com data, horário
 
 Histórico de Serviços:
 Consulta rápida de banhos anteriores e status dos atendimentos.
-
-Controle de Funcionários (opcional):
-Registra os cuidadores e funcionários responsáveis pelos serviços.
